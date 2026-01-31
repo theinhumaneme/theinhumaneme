@@ -12,6 +12,13 @@ MSCS @ Northeastern University (Boston) • I build AI-powered apps **and** the 
 
 ---
 
+## Stack
+- **Languages:** Rust, Python, Java, TypeScript/JavaScript, SQL, Bash
+- **App/AI:** LangChain, Flask, Angular, Postgres, WebSockets
+- **Infra/DevOps:** Linux, Docker, GitHub Actions, Prometheus/Grafana, Kubernetes
+
+---
+
 ## Featured projects
 
 - **[Hikari](https://github.com/theinhumaneme/hikari)** — lightweight deployment manager for small VM fleets  
@@ -38,21 +45,5 @@ MSCS @ Northeastern University (Boston) • I build AI-powered apps **and** the 
 - DNS privacy + running your own resolver stack
 - Deployment automation lessons from Hikari + Autodeploy
 
-Start here: [Blog home](https://kalyanmudumby.com)
+Read here: [Blog home](https://kalyanmudumby.com)
 
----
-
-## Stack
-**Languages:** Rust, Python, Java, TypeScript/JavaScript, SQL, Bash
-**App/AI:** LangChain, Flask, Angular, Postgres, WebSockets
-**Infra/DevOps:** Linux, Docker, GitHub Actions, Prometheus/Grafana, Kubernetes
-
-
----
-
-## Contact
-
-- [Blog](https://kalyanmudumby.com)
-- [Resume](https://kalyanmudumby.com/kalyan_mudumby_resume.pdf)
-- [LinkedIn](https://linkedin.com/in/kalyan-mudumby)
-- [Email](mailto:kalyanmudumby.com)
